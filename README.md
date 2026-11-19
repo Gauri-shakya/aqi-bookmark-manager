@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 Live Demo & Links
-- **Live Frontend (Vercel):** [Coming Soon / In Deployment]
-- **Live Backend API (Render):** [Coming Soon / In Deployment]
-- **API Health Check:** `[Backend-URL]/`
+- **Live Frontend (Vercel):** https://aqi-bookmark-manager.vercel.app
+- **Live Backend API (Render):** https://aqi-bookmark-backend.onrender.com
+- **API Health Check:** https://aqi-bookmark-backend.onrender.com/
 
 ---
 
