@@ -1,0 +1,14 @@
+# Dependencies (Yeh bohot heavy hote hain, inhein commit nahi karte)
+node_modules/
+
+# Secrets & Passwords (Yeh sabse important hai - DB password public na ho jaye)
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
